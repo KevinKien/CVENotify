@@ -9,7 +9,12 @@
   <a href="#running">Running</a> 
 </p>
 
-CVENotify will fetch the latest CVEs according to your application's and libraries' list and send alerts via Telegram.
+CVENotify will fetch the latest CVEs according to your application and libraries list and send alerts via Telegram.
+
+## Tasklist
+- [x] Core monitor from Twitter.
+- [x] Notify to Telegram.
+- [ ] Dashboard view, edit, add new application and libraries name.
 
 ## Install
 #### Install lib python
