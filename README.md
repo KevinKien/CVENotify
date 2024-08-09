@@ -1,15 +1,15 @@
 <h1 align="center">
-  Webservice & API IPInfo
+  CVE Notify
 </h1>
 
-<h4 align="center"> Identify Geographical Location and Proxy by IP Address </h4>
+<h4 align="center"> Monitor and notify new CVE </h4>
 
 <p align="center">
   <a href="#install">Install</a> •
   <a href="#api-documentation">Running</a> 
 </p>
 
-Webservice and API solution to identify country, region, city, latitude & longitude, ZIP code, time zone, ISP, VPN and residential proxies. IPAddress information is obtained from GeoIP2 and checking IPAddress is proxy or not is obtained from IP2Proxy.com.
+CVENotify will fetch the latest CVEs according to your application's and libraries' list and send alerts via Telegram.
 
 ## Install
 ### Install lib python
