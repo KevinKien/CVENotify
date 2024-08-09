@@ -1,0 +1,7 @@
+version: '1.0.0'
+services:
+  images: mysql:8.0
+  restart: always
+  ports: 
+  - "3306"
+  
